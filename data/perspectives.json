@@ -1,7 +1,7 @@
 {
 	"perspectives": [
-		{ "label": "local" },
-		{ "label": "tourist" },
-		{ "label": "none of your business" },		
+		{ "label": "local", "id": 102680875 },
+		{ "label": "tourist", "id": 102680913 },
+		{ "label": "none of your business", "id": 102680953 }
 	]
 }
