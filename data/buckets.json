@@ -1,5 +1,1194 @@
 {
-	"buckets": [
-		{ "label": "bar", "id": 102681097 }
-	]
+  "buckets": [
+    {
+      "label_clean": "adult-boutique", 
+      "id": 119479791, 
+      "label": "adult boutique"
+    }, 
+    {
+      "label_clean": "airport", 
+      "id": 119479793, 
+      "label": "airport"
+    }, 
+    {
+      "label_clean": "animal-shelter", 
+      "id": 119479801, 
+      "label": "animal shelter"
+    }, 
+    {
+      "label_clean": "antique-shop", 
+      "id": 119479803, 
+      "label": "antique shop"
+    }, 
+    {
+      "label_clean": "aquarium", 
+      "id": 119479805, 
+      "label": "aquarium"
+    }, 
+    {
+      "label_clean": "arcade", 
+      "id": 119479807, 
+      "label": "arcade"
+    }, 
+    {
+      "label_clean": "art-gallery", 
+      "id": 119479809, 
+      "label": "art gallery"
+    }, 
+    {
+      "label_clean": "arts-crafts", 
+      "id": 119479817, 
+      "label": "arts crafts"
+    }, 
+    {
+      "label_clean": "athletics-sports", 
+      "id": 119479819, 
+      "label": "athletics sports"
+    }, 
+    {
+      "label_clean": "atm", 
+      "id": 119479821, 
+      "label": "atm"
+    }, 
+    {
+      "label_clean": "automotive-shop", 
+      "id": 119479823, 
+      "label": "automotive shop"
+    }, 
+    {
+      "label_clean": "bagel-shop", 
+      "id": 119479825, 
+      "label": "bagel shop"
+    }, 
+    {
+      "label_clean": "bakery", 
+      "id": 119479827, 
+      "label": "bakery"
+    }, 
+    {
+      "label_clean": "bank", 
+      "id": 119479831, 
+      "label": "bank"
+    }, 
+    {
+      "label_clean": "bar", 
+      "id": 102681097, 
+      "label": "bar"
+    }, 
+    {
+      "label_clean": "baseball-field", 
+      "id": 119479841, 
+      "label": "baseball field"
+    }, 
+    {
+      "label_clean": "basketball-court", 
+      "id": 119479843, 
+      "label": "basketball court"
+    }, 
+    {
+      "label_clean": "basketball-stadium", 
+      "id": 119479845, 
+      "label": "basketball stadium"
+    }, 
+    {
+      "label_clean": "bathroom", 
+      "id": 119479847, 
+      "label": "bathroom"
+    }, 
+    {
+      "label_clean": "battlefield", 
+      "id": 119479853, 
+      "label": "battlefield"
+    }, 
+    {
+      "label_clean": "bbq", 
+      "id": 119479857, 
+      "label": "bbq"
+    }, 
+    {
+      "label_clean": "beach", 
+      "id": 119479859, 
+      "label": "beach"
+    }, 
+    {
+      "label_clean": "beach-resort", 
+      "id": 119479863, 
+      "label": "beach resort"
+    }, 
+    {
+      "label_clean": "beer-garden", 
+      "id": 119479865, 
+      "label": "beer garden"
+    }, 
+    {
+      "label_clean": "bench", 
+      "id": 119479867, 
+      "label": "bench"
+    }, 
+    {
+      "label_clean": "bicycle-parking", 
+      "id": 119479871, 
+      "label": "bicycle parking"
+    }, 
+    {
+      "label_clean": "bike-shop", 
+      "id": 119479875, 
+      "label": "bike shop"
+    }, 
+    {
+      "label_clean": "boat-ferry", 
+      "id": 119479877, 
+      "label": "boat ferry"
+    }, 
+    {
+      "label_clean": "boat-ramp", 
+      "id": 119479881, 
+      "label": "boat ramp"
+    }, 
+    {
+      "label_clean": "bookstore", 
+      "id": 119479883, 
+      "label": "bookstore"
+    }, 
+    {
+      "label_clean": "bowling-alley", 
+      "id": 119479885, 
+      "label": "bowling alley"
+    }, 
+    {
+      "label_clean": "breakfast", 
+      "id": 119479889, 
+      "label": "breakfast"
+    }, 
+    {
+      "label_clean": "bridal-shop", 
+      "id": 119479891, 
+      "label": "bridal shop"
+    }, 
+    {
+      "label_clean": "bridge", 
+      "id": 119479895, 
+      "label": "bridge"
+    }, 
+    {
+      "label_clean": "building", 
+      "id": 119479897, 
+      "label": "building"
+    }, 
+    {
+      "label_clean": "burger", 
+      "id": 119479899, 
+      "label": "burger"
+    }, 
+    {
+      "label_clean": "bus-station", 
+      "id": 119479903, 
+      "label": "bus station"
+    }, 
+    {
+      "label_clean": "butcher", 
+      "id": 119479911, 
+      "label": "butcher"
+    }, 
+    {
+      "label_clean": "camera-store", 
+      "id": 119479917, 
+      "label": "camera store"
+    }, 
+    {
+      "label_clean": "campground", 
+      "id": 119479919, 
+      "label": "campground"
+    }, 
+    {
+      "label_clean": "candy-store", 
+      "id": 119479925, 
+      "label": "candy store"
+    }, 
+    {
+      "label_clean": "car-dealership", 
+      "id": 119479927, 
+      "label": "car dealership"
+    }, 
+    {
+      "label_clean": "car-wash", 
+      "id": 119479931, 
+      "label": "car wash"
+    }, 
+    {
+      "label_clean": "carribean-restaurant", 
+      "id": 119479935, 
+      "label": "carribean restaurant"
+    }, 
+    {
+      "label_clean": "casino", 
+      "id": 119479939, 
+      "label": "casino"
+    }, 
+    {
+      "label_clean": "castle", 
+      "id": 119479943, 
+      "label": "castle"
+    }, 
+    {
+      "label_clean": "cemetery", 
+      "id": 119479947, 
+      "label": "cemetery"
+    }, 
+    {
+      "label_clean": "cheese-shop", 
+      "id": 119479949, 
+      "label": "cheese shop"
+    }, 
+    {
+      "label_clean": "chinese-restaurant", 
+      "id": 119479953, 
+      "label": "chinese restaurant"
+    }, 
+    {
+      "label_clean": "church", 
+      "id": 119479961, 
+      "label": "church"
+    }, 
+    {
+      "label_clean": "city", 
+      "id": 119479965, 
+      "label": "city"
+    }, 
+    {
+      "label_clean": "clinic", 
+      "id": 119479967, 
+      "label": "clinic"
+    }, 
+    {
+      "label_clean": "clothing-store", 
+      "id": 119479971, 
+      "label": "clothing store"
+    }, 
+    {
+      "label_clean": "cocktail-bar", 
+      "id": 119479973, 
+      "label": "cocktail bar"
+    }, 
+    {
+      "label_clean": "coffee-shop", 
+      "id": 119479979, 
+      "label": "coffee shop"
+    }, 
+    {
+      "label_clean": "college-university", 
+      "id": 119479981, 
+      "label": "college university"
+    }, 
+    {
+      "label_clean": "comedy-club", 
+      "id": 119479983, 
+      "label": "comedy club"
+    }, 
+    {
+      "label_clean": "concert-hall", 
+      "id": 119479985, 
+      "label": "concert hall"
+    }, 
+    {
+      "label_clean": "convenience-store", 
+      "id": 119479989, 
+      "label": "convenience store"
+    }, 
+    {
+      "label_clean": "cosmetics-shop", 
+      "id": 119479993, 
+      "label": "cosmetics shop"
+    }, 
+    {
+      "label_clean": "courthouse", 
+      "id": 119479997, 
+      "label": "courthouse"
+    }, 
+    {
+      "label_clean": "credit-union", 
+      "id": 119479999, 
+      "label": "credit union"
+    }, 
+    {
+      "label_clean": "cupcake-shop", 
+      "id": 119480001, 
+      "label": "cupcake shop"
+    }, 
+    {
+      "label_clean": "daycare", 
+      "id": 119480005, 
+      "label": "daycare"
+    }, 
+    {
+      "label_clean": "dentist", 
+      "id": 119480007, 
+      "label": "dentist"
+    }, 
+    {
+      "label_clean": "department-store", 
+      "id": 119480011, 
+      "label": "department store"
+    }, 
+    {
+      "label_clean": "design-studio", 
+      "id": 119480015, 
+      "label": "design studio"
+    }, 
+    {
+      "label_clean": "dessert", 
+      "id": 119480017, 
+      "label": "dessert"
+    }, 
+    {
+      "label_clean": "dog-run", 
+      "id": 119480019, 
+      "label": "dog run"
+    }, 
+    {
+      "label_clean": "donut", 
+      "id": 119480023, 
+      "label": "donut"
+    }, 
+    {
+      "label_clean": "electronics-store", 
+      "id": 119480027, 
+      "label": "electronics store"
+    }, 
+    {
+      "label_clean": "ev-charging-station", 
+      "id": 119480033, 
+      "label": "ev charging station"
+    }, 
+    {
+      "label_clean": "factory", 
+      "id": 119480037, 
+      "label": "factory"
+    }, 
+    {
+      "label_clean": "farm", 
+      "id": 119480039, 
+      "label": "farm"
+    }, 
+    {
+      "label_clean": "farmers-market", 
+      "id": 119480041, 
+      "label": "farmers market"
+    }, 
+    {
+      "label_clean": "field", 
+      "id": 119480045, 
+      "label": "field"
+    }, 
+    {
+      "label_clean": "financial-service", 
+      "id": 119480047, 
+      "label": "financial service"
+    }, 
+    {
+      "label_clean": "fire-station", 
+      "id": 119480051, 
+      "label": "fire station"
+    }, 
+    {
+      "label_clean": "fish-market", 
+      "id": 119480055, 
+      "label": "fish market"
+    }, 
+    {
+      "label_clean": "fishing-spot", 
+      "id": 119480057, 
+      "label": "fishing spot"
+    }, 
+    {
+      "label_clean": "fitness", 
+      "id": 119480061, 
+      "label": "fitness"
+    }, 
+    {
+      "label_clean": "flea-market", 
+      "id": 119480063, 
+      "label": "flea market"
+    }, 
+    {
+      "label_clean": "flower-shop", 
+      "id": 119480065, 
+      "label": "flower shop"
+    }, 
+    {
+      "label_clean": "food-court", 
+      "id": 119480069, 
+      "label": "food court"
+    }, 
+    {
+      "label_clean": "food-drink-shop", 
+      "id": 119480073, 
+      "label": "food drink shop"
+    }, 
+    {
+      "label_clean": "football-stadium", 
+      "id": 119480079, 
+      "label": "football stadium"
+    }, 
+    {
+      "label_clean": "ford", 
+      "id": 119480081, 
+      "label": "ford"
+    }, 
+    {
+      "label_clean": "fountain", 
+      "id": 119480083, 
+      "label": "fountain"
+    }, 
+    {
+      "label_clean": "fried-chicken-joint", 
+      "id": 119480087, 
+      "label": "fried chicken joint"
+    }, 
+    {
+      "label_clean": "fun-fair", 
+      "id": 119480089, 
+      "label": "fun fair"
+    }, 
+    {
+      "label_clean": "furniture-store", 
+      "id": 119480095, 
+      "label": "furniture store"
+    }, 
+    {
+      "label_clean": "gaming-cafe", 
+      "id": 119480097, 
+      "label": "gaming cafe"
+    }, 
+    {
+      "label_clean": "garden", 
+      "id": 119480101, 
+      "label": "garden"
+    }, 
+    {
+      "label_clean": "garden-center", 
+      "id": 119480107, 
+      "label": "garden center"
+    }, 
+    {
+      "label_clean": "gas-station", 
+      "id": 119480109, 
+      "label": "gas station"
+    }, 
+    {
+      "label_clean": "gastropub", 
+      "id": 119480111, 
+      "label": "gastropub"
+    }, 
+    {
+      "label_clean": "gate", 
+      "id": 119480113, 
+      "label": "gate"
+    }, 
+    {
+      "label_clean": "gay-bar", 
+      "id": 119480117, 
+      "label": "gay bar"
+    }, 
+    {
+      "label_clean": "general-entertainment", 
+      "id": 119480123, 
+      "label": "general entertainment"
+    }, 
+    {
+      "label_clean": "general-travel", 
+      "id": 119480125, 
+      "label": "general travel"
+    }, 
+    {
+      "label_clean": "generic", 
+      "id": 119480127, 
+      "label": "generic"
+    }, 
+    {
+      "label_clean": "german-restaurant", 
+      "id": 119480129, 
+      "label": "german restaurant"
+    }, 
+    {
+      "label_clean": "gift-shop", 
+      "id": 119480131, 
+      "label": "gift shop"
+    }, 
+    {
+      "label_clean": "golf-course", 
+      "id": 119480137, 
+      "label": "golf course"
+    }, 
+    {
+      "label_clean": "gourmet-shop", 
+      "id": 119480141, 
+      "label": "gourmet shop"
+    }, 
+    {
+      "label_clean": "government-building", 
+      "id": 119480145, 
+      "label": "government building"
+    }, 
+    {
+      "label_clean": "grocery-store", 
+      "id": 119480147, 
+      "label": "grocery store"
+    }, 
+    {
+      "label_clean": "harbor-marina", 
+      "id": 119480151, 
+      "label": "harbor marina"
+    }, 
+    {
+      "label_clean": "hardware-store", 
+      "id": 119480159, 
+      "label": "hardware store"
+    }, 
+    {
+      "label_clean": "hiking-trail", 
+      "id": 119480161, 
+      "label": "hiking trail"
+    }, 
+    {
+      "label_clean": "historic-site", 
+      "id": 119480163, 
+      "label": "historic site"
+    }, 
+    {
+      "label_clean": "hobby-shop", 
+      "id": 119480167, 
+      "label": "hobby shop"
+    }, 
+    {
+      "label_clean": "hockey-field", 
+      "id": 119480171, 
+      "label": "hockey field"
+    }, 
+    {
+      "label_clean": "hospital", 
+      "id": 119480173, 
+      "label": "hospital"
+    }, 
+    {
+      "label_clean": "hot-dog-joint", 
+      "id": 119480181, 
+      "label": "hot dog joint"
+    }, 
+    {
+      "label_clean": "hot-pot-restaurant", 
+      "id": 119480183, 
+      "label": "hot pot restaurant"
+    }, 
+    {
+      "label_clean": "hot-spring", 
+      "id": 119480187, 
+      "label": "hot spring"
+    }, 
+    {
+      "label_clean": "hotel", 
+      "id": 119480189, 
+      "label": "hotel"
+    }, 
+    {
+      "label_clean": "hunting-supply", 
+      "id": 119480195, 
+      "label": "hunting supply"
+    }, 
+    {
+      "label_clean": "ice-cream-shop", 
+      "id": 119480197, 
+      "label": "ice cream shop"
+    }, 
+    {
+      "label_clean": "information", 
+      "id": 119480201, 
+      "label": "information"
+    }, 
+    {
+      "label_clean": "internet-cafe", 
+      "id": 119480203, 
+      "label": "internet cafe"
+    }, 
+    {
+      "label_clean": "island", 
+      "id": 119480205, 
+      "label": "island"
+    }, 
+    {
+      "label_clean": "jewelry-store", 
+      "id": 119480207, 
+      "label": "jewelry store"
+    }, 
+    {
+      "label_clean": "karaoke", 
+      "id": 119480209, 
+      "label": "karaoke"
+    }, 
+    {
+      "label_clean": "lake", 
+      "id": 119480215, 
+      "label": "lake"
+    }, 
+    {
+      "label_clean": "landmark", 
+      "id": 119480221, 
+      "label": "landmark"
+    }, 
+    {
+      "label_clean": "laundry", 
+      "id": 119480223, 
+      "label": "laundry"
+    }, 
+    {
+      "label_clean": "library", 
+      "id": 119480227, 
+      "label": "library"
+    }, 
+    {
+      "label_clean": "light-rail", 
+      "id": 119480231, 
+      "label": "light rail"
+    }, 
+    {
+      "label_clean": "lighthouse", 
+      "id": 119480235, 
+      "label": "lighthouse"
+    }, 
+    {
+      "label_clean": "liquor-store", 
+      "id": 119480241, 
+      "label": "liquor store"
+    }, 
+    {
+      "label_clean": "lounge", 
+      "id": 119480245, 
+      "label": "lounge"
+    }, 
+    {
+      "label_clean": "mall", 
+      "id": 119480249, 
+      "label": "mall"
+    }, 
+    {
+      "label_clean": "marijuana-dispensary", 
+      "id": 119480251, 
+      "label": "marijuana dispensary"
+    }, 
+    {
+      "label_clean": "market", 
+      "id": 119480253, 
+      "label": "market"
+    }, 
+    {
+      "label_clean": "medical-center", 
+      "id": 119480257, 
+      "label": "medical center"
+    }, 
+    {
+      "label_clean": "military-base", 
+      "id": 119480259, 
+      "label": "military base"
+    }, 
+    {
+      "label_clean": "mine", 
+      "id": 119480263, 
+      "label": "mine"
+    }, 
+    {
+      "label_clean": "miscellaneous-shop", 
+      "id": 119480269, 
+      "label": "miscellaneous shop"
+    }, 
+    {
+      "label_clean": "mobile-phone-shop", 
+      "id": 119480271, 
+      "label": "mobile phone shop"
+    }, 
+    {
+      "label_clean": "molecular-gastronomy", 
+      "id": 119480273, 
+      "label": "molecular gastronomy"
+    }, 
+    {
+      "label_clean": "mosque", 
+      "id": 119480275, 
+      "label": "mosque"
+    }, 
+    {
+      "label_clean": "motorcycle-shop", 
+      "id": 119480277, 
+      "label": "motorcycle shop"
+    }, 
+    {
+      "label_clean": "mountain", 
+      "id": 119480285, 
+      "label": "mountain"
+    }, 
+    {
+      "label_clean": "movie-theatre", 
+      "id": 119480287, 
+      "label": "movie theatre"
+    }, 
+    {
+      "label_clean": "moving-target", 
+      "id": 119480289, 
+      "label": "moving target"
+    }, 
+    {
+      "label_clean": "museum", 
+      "id": 119480291, 
+      "label": "museum"
+    }, 
+    {
+      "label_clean": "music-store", 
+      "id": 119480293, 
+      "label": "music store"
+    }, 
+    {
+      "label_clean": "music-venue", 
+      "id": 119480295, 
+      "label": "music venue"
+    }, 
+    {
+      "label_clean": "nail-salon", 
+      "id": 119480297, 
+      "label": "nail salon"
+    }, 
+    {
+      "label_clean": "neighborhood", 
+      "id": 119480299, 
+      "label": "neighborhood"
+    }, 
+    {
+      "label_clean": "newsstand", 
+      "id": 119480303, 
+      "label": "newsstand"
+    }, 
+    {
+      "label_clean": "nightlife", 
+      "id": 119480309, 
+      "label": "nightlife"
+    }, 
+    {
+      "label_clean": "noodle-shop", 
+      "id": 119480311, 
+      "label": "noodle shop"
+    }, 
+    {
+      "label_clean": "office", 
+      "id": 119480313, 
+      "label": "office"
+    }, 
+    {
+      "label_clean": "office-supplies", 
+      "id": 119480315, 
+      "label": "office supplies"
+    }, 
+    {
+      "label_clean": "optical-shop", 
+      "id": 119480317, 
+      "label": "optical shop"
+    }, 
+    {
+      "label_clean": "other-outdoors", 
+      "id": 119480325, 
+      "label": "other outdoors"
+    }, 
+    {
+      "label_clean": "park", 
+      "id": 119480327, 
+      "label": "park"
+    }, 
+    {
+      "label_clean": "parking", 
+      "id": 119480329, 
+      "label": "parking"
+    }, 
+    {
+      "label_clean": "performing-arts", 
+      "id": 119480331, 
+      "label": "performing arts"
+    }, 
+    {
+      "label_clean": "pet-store", 
+      "id": 119480339, 
+      "label": "pet store"
+    }, 
+    {
+      "label_clean": "pharmacy", 
+      "id": 119480341, 
+      "label": "pharmacy"
+    }, 
+    {
+      "label_clean": "photography-lab", 
+      "id": 119480343, 
+      "label": "photography lab"
+    }, 
+    {
+      "label_clean": "picnic-spot", 
+      "id": 119480345, 
+      "label": "picnic spot"
+    }, 
+    {
+      "label_clean": "pier", 
+      "id": 119480347, 
+      "label": "pier"
+    }, 
+    {
+      "label_clean": "pizza", 
+      "id": 119480351, 
+      "label": "pizza"
+    }, 
+    {
+      "label_clean": "playground", 
+      "id": 119480357, 
+      "label": "playground"
+    }, 
+    {
+      "label_clean": "police", 
+      "id": 119480359, 
+      "label": "police"
+    }, 
+    {
+      "label_clean": "pool", 
+      "id": 119480363, 
+      "label": "pool"
+    }, 
+    {
+      "label_clean": "pool-hall", 
+      "id": 119480365, 
+      "label": "pool hall"
+    }, 
+    {
+      "label_clean": "post-office", 
+      "id": 119480369, 
+      "label": "post office"
+    }, 
+    {
+      "label_clean": "power-pylon", 
+      "id": 119480371, 
+      "label": "power pylon"
+    }, 
+    {
+      "label_clean": "public-art", 
+      "id": 119480377, 
+      "label": "public art"
+    }, 
+    {
+      "label_clean": "racetrack", 
+      "id": 119480379, 
+      "label": "racetrack"
+    }, 
+    {
+      "label_clean": "ramen", 
+      "id": 119480381, 
+      "label": "ramen"
+    }, 
+    {
+      "label_clean": "real-estate", 
+      "id": 119480385, 
+      "label": "real estate"
+    }, 
+    {
+      "label_clean": "record-shop", 
+      "id": 119480389, 
+      "label": "record shop"
+    }, 
+    {
+      "label_clean": "recycling-facility", 
+      "id": 119480395, 
+      "label": "recycling facility"
+    }, 
+    {
+      "label_clean": "rental-car", 
+      "id": 119480397, 
+      "label": "rental car"
+    }, 
+    {
+      "label_clean": "rest-area", 
+      "id": 119480401, 
+      "label": "rest area"
+    }, 
+    {
+      "label_clean": "restaurant", 
+      "id": 119480403, 
+      "label": "restaurant"
+    }, 
+    {
+      "label_clean": "river", 
+      "id": 119480405, 
+      "label": "river"
+    }, 
+    {
+      "label_clean": "road", 
+      "id": 119480407, 
+      "label": "road"
+    }, 
+    {
+      "label_clean": "ruin", 
+      "id": 119480413, 
+      "label": "ruin"
+    }, 
+    {
+      "label_clean": "salon-barber", 
+      "id": 119480417, 
+      "label": "salon barber"
+    }, 
+    {
+      "label_clean": "school", 
+      "id": 119480421, 
+      "label": "school"
+    }, 
+    {
+      "label_clean": "ship-wreck", 
+      "id": 119480425, 
+      "label": "ship wreck"
+    }, 
+    {
+      "label_clean": "shoe-store", 
+      "id": 119480431, 
+      "label": "shoe store"
+    }, 
+    {
+      "label_clean": "skate-park", 
+      "id": 119480433, 
+      "label": "skate park"
+    }, 
+    {
+      "label_clean": "skating-rink", 
+      "id": 119480437, 
+      "label": "skating rink"
+    }, 
+    {
+      "label_clean": "ski-area", 
+      "id": 119480439, 
+      "label": "ski area"
+    }, 
+    {
+      "label_clean": "smoke-shop", 
+      "id": 119480443, 
+      "label": "smoke shop"
+    }, 
+    {
+      "label_clean": "soccer-field", 
+      "id": 119480449, 
+      "label": "soccer field"
+    }, 
+    {
+      "label_clean": "soccer-stadium", 
+      "id": 119480451, 
+      "label": "soccer stadium"
+    }, 
+    {
+      "label_clean": "soup-place", 
+      "id": 119480453, 
+      "label": "soup place"
+    }, 
+    {
+      "label_clean": "spa-massage", 
+      "id": 119480455, 
+      "label": "spa massage"
+    }, 
+    {
+      "label_clean": "spiritual-center", 
+      "id": 119480457, 
+      "label": "spiritual center"
+    }, 
+    {
+      "label_clean": "sporting-goods-shop", 
+      "id": 119480465, 
+      "label": "sporting goods shop"
+    }, 
+    {
+      "label_clean": "spring", 
+      "id": 119480467, 
+      "label": "spring"
+    }, 
+    {
+      "label_clean": "stable", 
+      "id": 119480469, 
+      "label": "stable"
+    }, 
+    {
+      "label_clean": "stadium", 
+      "id": 119480471, 
+      "label": "stadium"
+    }, 
+    {
+      "label_clean": "steakhouse", 
+      "id": 119480473, 
+      "label": "steakhouse"
+    }, 
+    {
+      "label_clean": "storage-facility", 
+      "id": 119480475, 
+      "label": "storage facility"
+    }, 
+    {
+      "label_clean": "subway", 
+      "id": 119480477, 
+      "label": "subway"
+    }, 
+    {
+      "label_clean": "surf-shop", 
+      "id": 119480479, 
+      "label": "surf shop"
+    }, 
+    {
+      "label_clean": "sushi-restaurant", 
+      "id": 119480487, 
+      "label": "sushi restaurant"
+    }, 
+    {
+      "label_clean": "swimming", 
+      "id": 119480489, 
+      "label": "swimming"
+    }, 
+    {
+      "label_clean": "synagogue", 
+      "id": 119480491, 
+      "label": "synagogue"
+    }, 
+    {
+      "label_clean": "tailor-shop", 
+      "id": 119480493, 
+      "label": "tailor shop"
+    }, 
+    {
+      "label_clean": "tanning-salon", 
+      "id": 119480495, 
+      "label": "tanning salon"
+    }, 
+    {
+      "label_clean": "tattoo-parlor", 
+      "id": 119480497, 
+      "label": "tattoo parlor"
+    }, 
+    {
+      "label_clean": "taxi", 
+      "id": 119480505, 
+      "label": "taxi"
+    }, 
+    {
+      "label_clean": "tea-room", 
+      "id": 119480507, 
+      "label": "tea room"
+    }, 
+    {
+      "label_clean": "tennis", 
+      "id": 119480509, 
+      "label": "tennis"
+    }, 
+    {
+      "label_clean": "theme-park", 
+      "id": 119480511, 
+      "label": "theme park"
+    }, 
+    {
+      "label_clean": "thrift-vintage-store", 
+      "id": 119480513, 
+      "label": "thrift vintage store"
+    }, 
+    {
+      "label_clean": "toll-booth", 
+      "id": 119480521, 
+      "label": "toll booth"
+    }, 
+    {
+      "label_clean": "toy-game-store", 
+      "id": 119480523, 
+      "label": "toy game store"
+    }, 
+    {
+      "label_clean": "track", 
+      "id": 119480525, 
+      "label": "track"
+    }, 
+    {
+      "label_clean": "traffic-signal", 
+      "id": 119480527, 
+      "label": "traffic signal"
+    }, 
+    {
+      "label_clean": "train-station", 
+      "id": 119480529, 
+      "label": "train station"
+    }, 
+    {
+      "label_clean": "travel-agency", 
+      "id": 119480531, 
+      "label": "travel agency"
+    }, 
+    {
+      "label_clean": "veterinarian", 
+      "id": 119480539, 
+      "label": "veterinarian"
+    }, 
+    {
+      "label_clean": "video-game-store", 
+      "id": 119480541, 
+      "label": "video game store"
+    }, 
+    {
+      "label_clean": "video-store", 
+      "id": 119480543, 
+      "label": "video store"
+    }, 
+    {
+      "label_clean": "view-point", 
+      "id": 119480545, 
+      "label": "view point"
+    }, 
+    {
+      "label_clean": "vineyard", 
+      "id": 119480551, 
+      "label": "vineyard"
+    }, 
+    {
+      "label_clean": "volcano", 
+      "id": 119480555, 
+      "label": "volcano"
+    }, 
+    {
+      "label_clean": "volleyball-court", 
+      "id": 119480557, 
+      "label": "volleyball court"
+    }, 
+    {
+      "label_clean": "well", 
+      "id": 119480559, 
+      "label": "well"
+    }, 
+    {
+      "label_clean": "whisky-bar", 
+      "id": 119480561, 
+      "label": "whisky bar"
+    }, 
+    {
+      "label_clean": "wine-bar", 
+      "id": 119480583, 
+      "label": "wine bar"
+    }, 
+    {
+      "label_clean": "wine-shop", 
+      "id": 119480587, 
+      "label": "wine shop"
+    }, 
+    {
+      "label_clean": "winery", 
+      "id": 119480593, 
+      "label": "winery"
+    }, 
+    {
+      "label_clean": "wings-joint", 
+      "id": 119480595, 
+      "label": "wings joint"
+    }, 
+    {
+      "label_clean": "zoo", 
+      "id": 119480599, 
+      "label": "zoo"
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 {
 	"feels": [
-		{ "label": "crying", "id": 102681251 },
-		{ "label": "drinking", "id": 102681341 }
+		{ "label": "crying", "label_clean": "crying", "id": 102681251 },
+		{ "label": "drinking", "label_clean": "drinking", "id": 102681341 }
 	]
 }
