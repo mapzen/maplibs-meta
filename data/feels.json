@@ -1,6 +1,24 @@
 {
-	"feels": [
-		{ "label": "crying", "label_clean": "crying", "id": 102681251 },
-		{ "label": "drinking", "label_clean": "drinking", "id": 102681341 }
-	]
+    "feels": [
+	{
+	    "label": "crying",
+	    "label_clean": "crying",
+	    "id": 102681251
+	},
+	{
+	    "label": "drinking",
+	    "label_clean": "drinking",
+	    "id": 102681341
+	},
+	{
+	    "label": "monetizing like crazy",
+	    "label_clean": "monetizing-like-crazy",
+	    "id": 135726537
+	},
+	{
+	    "label": "thought-leadering",
+	    "label_clean": "thought-leadering",
+	    "id": 135726539
+	}
+    ]
 }
