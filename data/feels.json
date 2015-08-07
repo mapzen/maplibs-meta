@@ -36,6 +36,11 @@
 	    "id": 135726537
 	},
 	{
+	    "label": "ranting",
+	    "label_clean": "ranting",
+	    "id": 135877643
+	},
+	{
 	    "label": "thought-leadering",
 	    "label_clean": "thought-leadering",
 	    "id": 135726539
@@ -44,6 +49,6 @@
 	    "label": "watching sportsball",
 	    "label_clean": "watching-sportsball",
 	    "id": 135877225
-	},
+	}
     ]
 }
