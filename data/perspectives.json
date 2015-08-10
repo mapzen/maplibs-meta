@@ -3,5 +3,6 @@
 		{ "label": "local", "label_clean": "local", "id": 102680875 },
 		{ "label": "tourist", "label_clean": "tourist", "id": 102680913 },
 		{ "label": "none of your business", "label_clean": "none-of-your-business", "id": 102680953 }
+		{ "label": "expat", "label_clean": "expat", "id": 102680954 }
 	]
 }

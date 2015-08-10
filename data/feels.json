@@ -49,6 +49,36 @@
 	    "label": "watching sportsball",
 	    "label_clean": "watching-sportsball",
 	    "id": 135877225
+	},
+	{
+	    "label": "caffeinating",
+	    "label_clean": "caffeinating",
+	    "id": 135877226
+	},
+	{
+	    "label": "sweating it",
+	    "label_clean": "sweating-it",
+	    "id": 135877227
+	},
+	{
+	    "label": "moving to the music",
+	    "label_clean": "moving-to-the-music",
+	    "id": 135877228
+	},
+	{
+	    "label": "livin' it up",
+	    "label_clean": "livin'-it-up",
+	    "id": 135877229
+	},
+	{
+	    "label": "hustling",
+	    "label_clean": "hustling",
+	    "id": 135877230
+	},
+	{
+	    "label": "living on the edge",
+	    "label_clean": "living-on-the-edge",
+	    "id": 135877231
 	}
     ]
 }
